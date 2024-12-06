@@ -1,4 +1,4 @@
-![Screenshot of Voxelmanip Classic, showing the character from Voxel Dreams.](https://voxelmanip.se/media/projects/voxelmanip_classic.png)
+![Screenshot of Voxelmanip Classic, showing the character from Voxel Dreams.](https://voxelmanip.se/media/projects/voxelmanip_classic.webp)
 
 Voxelmanip Classic (formerly Minecraftn't Classic) is a Minetest server that intends to recreate the simple creative freebuild gameplay that existed in Minecraft Classic.
 
